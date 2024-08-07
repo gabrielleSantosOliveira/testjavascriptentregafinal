@@ -1,0 +1,16 @@
+{
+  "name": "sitede2006",
+  "version": "1.0.0",
+  "main": "site2006.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
